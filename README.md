@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+BREAK THE CYCLE Fight to survive as this award-winning third-person shooter brings Selene’s story to PC. Take on roguelike challenges. Engage enemies in bullet hell-fuelled clashes. Share your journey through Returnal™ with another player.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 64-bit (version 1903) | macOS 11.0 or later |
+| **Processor** | Min: Intel Core i5-6400 (4 core 2.7GHz) AMD Ryzen 5 1500X (4… / Rec: Intel i7-8700 (6 core 3.7 GHz) AMD Ryzen 7 2700X (8 cor… | Intel Core i5 / Apple M1 |
+| **Memory** | 16 GB RAM | 16 GB RAM |
+| **Graphics** | Min: NVIDIA GeForce GTX 1060 (6 GB) AMD Radeon RX 580 (8 GB) / Rec: NVIDIA RTX 2070 Super (8 GB) AMD Radeon RX 6700 XT (12 … | Metal-capable GPU |
+| **Storage** | 60 GB available space | 60 GB available space |
+| **Additional Notes** | SSD Recommended | SSD Recommended |
 
 ---
 
